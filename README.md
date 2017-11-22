@@ -1,2 +1,2 @@
 # Prog2Assignment1
-Repository for Programming 2 Assignment 1
+This assignment required us to recreate the classic arcade game Pong in Visual Studio and C#
